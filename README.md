@@ -1,4 +1,9 @@
 # cod.m ZigBee CC2538 Raspberry Pi module
+
+This fork concerns this version of CC2538-CC2592 (different pin placement):
+
+<img src="https://user-images.githubusercontent.com/46993341/213132301-40f06443-9c0f-4b25-8932-d25c1df486da.jpeg" width="215" height="300">
+
 [ZigBee CC2538 Raspberry Pi Coordinator](https://shop.codm.de/automation/zigbee/29/zigbee-cc2538-raspberry-pi-modul) - a ZigBee Coordinator designed for the GPIO of the Raspberry Pi running Z-Stack Firmware 3.0.x.
 The used CC2538 module has an onboard CC2592 PA/LNA for range extension. Together with an external antenna this should make - depending on your surrounding - for a very good coverage.
 
@@ -75,3 +80,4 @@ It happened sometimes that I had to replug the module to get it to work again.
 [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 cod.m GmbH, Patrik Mayer, 2020
+Modified by Flobul, 2023
